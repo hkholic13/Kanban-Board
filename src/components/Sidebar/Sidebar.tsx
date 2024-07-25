@@ -89,7 +89,7 @@ function Sidebar() {
           className="github"
           aria-label="visit jaoincode github"
         >
-          @jaoincode
+          @hk
         </a>
       </StyledSidebar>
     </>
